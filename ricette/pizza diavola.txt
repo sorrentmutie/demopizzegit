@@ -1,2 +1,3 @@
 ricetta:
-50 gr salame
+60 gr salame
+100 gr farina
